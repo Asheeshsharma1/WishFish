@@ -1,7 +1,7 @@
 # WishFish
 Grab victim front cam snap by sending wishes
 
-Installation -
+Installation -termex
 
 $ apt update && apt upgrade.
 
